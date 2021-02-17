@@ -9,3 +9,4 @@ Topícos a serem abordados:
 
 1. git
 2. virtualenv
+3. pip
