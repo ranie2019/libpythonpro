@@ -5,9 +5,22 @@ Nesse curso e ensinado como contribuir com projetos de codigo aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br)
 
-Topícos a serem abordados:
-
 Suportado a versao 3.9 do Python
+
+Para instalar:
+
+```console
+python3 -m venv .venv
+.venv/scripts/activate
+pip install -r requirements-dev.txt
+```
+
+Para conferir a qualidade do codigo:
+``console
+flake8
+``
+
+Topícos a serem abordados:
 
 1. git
 2. virtualenv
