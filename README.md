@@ -5,6 +5,8 @@ Nesse curso e ensinado como contribuir com projetos de codigo aberto
 
 Link para o curso [Python Pro](https://www.python.pro.br)
 
+[![Build Status](https://travis-ci.org/ranie2019/libpythonpro.svg?branch=main)](https://travis-ci.org/ranie2019/libpythonpro)
+
 Suportado a versao 3.9 do Python
 
 Para instalar:
